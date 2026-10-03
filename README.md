@@ -36,6 +36,6 @@ A Fortnite-style party lobby. Every player has their own lobby, players can invi
 
 ## Contact
 
-Open to new roles and to relocation. LinkedIn is the fastest way to reach me.
+Open to new roles and to relocation. LinkedIn is the fastest way to reach me. (Open to relocation)
 
 [LinkedIn](https://www.linkedin.com/in/nurullahkarakus) · [YouTube](https://www.youtube.com/@Snowmechdev) · [snowmech.com](https://snowmech.com) · [Linktree](https://linktr.ee/snowmech)
