@@ -6,7 +6,7 @@ I build gameplay systems in Unreal Engine 5 with C++: mechanics first, then the 
 
 | [OP](https://github.com/nurullahkarakus/OP-WIP) | [PMAI](https://github.com/nurullahkarakus/PMAI-WIP) |
 |---|---|
-| <a href="https://github.com/nurullahkarakus/OP-WIP"><img src="assets/op-card.png" alt="OP" width="100%"></a> | <a href="https://github.com/nurullahkarakus/PMAI-WIP"><img src="assets/pmai-card.png" alt="PMAI" width="100%"></a> |
+| <a href="https://github.com/nurullahkarakus/OP-WIP"><img src="assets/op-card.png" alt="OP" width="100%"></a> | <a href="https://github.com/nurullahkarakus/PMAI-WIP"><img src="assets/pmai-card-v2.png" alt="PMAI" width="100%"></a> |
 | Top-down post-apocalyptic survival game. Crafting, looting and zombies. Unreal Engine 5 C++. | Tree segmentation and a desktop Lab to train, test and analyze the models. PyTorch on CUDA. |
 
 ## Latest updates
